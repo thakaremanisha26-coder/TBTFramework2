@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-04-22T17:25:30 IST" name="Default suite" finished-at="2026-04-22T17:26:07 IST" duration-ms="37016">
+  <suite started-at="2026-04-23T18:49:45 IST" name="Suite" finished-at="2026-04-23T18:50:32 IST" duration-ms="47364">
     <groups>
     </groups>
-    <test started-at="2026-04-22T17:25:30 IST" name="Default test" finished-at="2026-04-22T17:26:07 IST" duration-ms="37016">
+    <test started-at="2026-04-23T18:49:45 IST" name="Test" finished-at="2026-04-23T18:50:32 IST" duration-ms="47364">
       <class name="TestCase.TestCase001">
-        <test-method is-config="true" signature="setupReport()[pri:0, instance:TestCase.TestCase001@5ffead27]" started-at="2026-04-22T17:25:30 IST" name="setupReport" finished-at="2026-04-22T17:25:30 IST" duration-ms="268" status="PASS">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:TestCase.TestCase001@5ffead27]" started-at="2026-04-23T18:49:45 IST" name="setupReport" finished-at="2026-04-23T18:49:45 IST" duration-ms="142" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupReport -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:TestCase.TestCase001@5ffead27]" started-at="2026-04-22T17:25:30 IST" name="setup" finished-at="2026-04-22T17:25:35 IST" duration-ms="4842" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCase.TestCase001@5ffead27]" started-at="2026-04-23T18:49:45 IST" name="setup" finished-at="2026-04-23T18:49:59 IST" duration-ms="14562" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:TestCase.TestCase001@5ffead27]" started-at="2026-04-22T17:25:35 IST" name="startTest" finished-at="2026-04-22T17:25:35 IST" duration-ms="17" status="PASS">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:TestCase.TestCase001@5ffead27]" started-at="2026-04-23T18:49:59 IST" name="startTest" finished-at="2026-04-23T18:49:59 IST" duration-ms="6" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,11 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startTest -->
-        <test-method signature="LoginReportingPage()[pri:1, instance:TestCase.TestCase001@5ffead27]" started-at="2026-04-22T17:25:35 IST" name="LoginReportingPage" finished-at="2026-04-22T17:26:07 IST" duration-ms="32085" status="PASS">
+        <test-method signature="LoginReportingPage()[pri:1, instance:TestCase.TestCase001@5ffead27]" started-at="2026-04-23T18:49:59 IST" name="LoginReportingPage" finished-at="2026-04-23T18:50:32 IST" duration-ms="32718" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginReportingPage -->
-        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestCase.TestCase001@5ffead27]" started-at="2026-04-22T17:26:07 IST" name="getResult" finished-at="2026-04-22T17:26:07 IST" duration-ms="35" status="PASS">
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestCase.TestCase001@5ffead27]" started-at="2026-04-23T18:50:32 IST" name="getResult" finished-at="2026-04-23T18:50:32 IST" duration-ms="25" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -41,11 +41,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TestCase001@5ffead27]" started-at="2026-04-22T17:26:07 IST" name="tearDown" finished-at="2026-04-22T17:26:08 IST" duration-ms="633" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TestCase001@5ffead27]" started-at="2026-04-23T18:50:32 IST" name="tearDown" finished-at="2026-04-23T18:50:33 IST" duration-ms="667" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- TestCase.TestCase001 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
